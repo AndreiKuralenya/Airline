@@ -1,0 +1,31 @@
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest main
+INFO: total Capacity of Airline: 550
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest main
+INFO: total Passenger of Airline: 680
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest sortPlanesByRange
+INFO: Planes sorted by Range:
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest sortPlanesByRange
+INFO:   Boeing 947; Range: 5000
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest sortPlanesByRange
+INFO:   Boeing 747; Range: 10000
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest sortPlanesByRange
+INFO:   Airbus; Range: 15000
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest sortPlanesByRange
+INFO:   AN Mria; Range: 20000
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Starting planes selection... 
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: 
+июн 25, 2014 2:07:25 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Enter Fuel Consumption (press space and enter to exit): 
+2500
+июн 25, 2014 2:07:29 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Your match is Boeing 747; fuel consumption: 3000
+июн 25, 2014 2:07:29 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Your match is Airbus; fuel consumption: 5000
+июн 25, 2014 2:07:29 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Your match is AN Mria; fuel consumption: 10000
+июн 25, 2014 2:07:29 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: 
+июн 25, 2014 2:07:29 PM by.bsu.airline.main.AviaTest selectPlanesByFuelConsumption
+INFO: Enter Fuel Consumption (press space and enter to exit): 
